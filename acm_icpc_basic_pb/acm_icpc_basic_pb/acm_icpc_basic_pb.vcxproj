@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E8387C14-865B-45E6-8CBA-C93C01550646}</ProjectGuid>
+    <ProjectGuid>{D4D258D0-B31E-46CD-A3D9-09D326373D9B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>acm_icpc_basic_pb</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\src.cpp" />
+    <ClCompile Include="src.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
