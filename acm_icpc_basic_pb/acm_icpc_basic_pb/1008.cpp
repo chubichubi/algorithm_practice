@@ -1,4 +1,5 @@
 //1008
+#if 0
 #include <stdio.h>
 
 int main()
@@ -10,3 +11,4 @@ int main()
 
 	return 0;
 }
+#endif
